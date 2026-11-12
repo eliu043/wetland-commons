@@ -1,0 +1,65 @@
+{
+  "image": "vegetation-atlas.png",
+  "size": [
+    1774,
+    887
+  ],
+  "frames": {
+    "cypressBroad": {
+      "x": 33,
+      "y": 67,
+      "w": 448,
+      "h": 374,
+      "sheet": "vegetation"
+    },
+    "cypressTall": {
+      "x": 545,
+      "y": 30,
+      "w": 290,
+      "h": 411,
+      "sheet": "vegetation"
+    },
+    "cypressForked": {
+      "x": 903,
+      "y": 111,
+      "w": 411,
+      "h": 327,
+      "sheet": "vegetation"
+    },
+    "cypressSparse": {
+      "x": 1362,
+      "y": 39,
+      "w": 374,
+      "h": 401,
+      "sheet": "vegetation"
+    },
+    "grassLow": {
+      "x": 109,
+      "y": 637,
+      "w": 245,
+      "h": 181,
+      "sheet": "vegetation"
+    },
+    "reedsDense": {
+      "x": 523,
+      "y": 527,
+      "w": 288,
+      "h": 296,
+      "sheet": "vegetation"
+    },
+    "reedsSparse": {
+      "x": 971,
+      "y": 549,
+      "w": 265,
+      "h": 267,
+      "sheet": "vegetation"
+    },
+    "sedge": {
+      "x": 1356,
+      "y": 585,
+      "w": 355,
+      "h": 234,
+      "sheet": "vegetation"
+    }
+  }
+}

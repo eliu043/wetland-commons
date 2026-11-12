@@ -1,0 +1,93 @@
+{
+  "image": "wetland-atlas.png",
+  "size": [
+    1448,
+    1086
+  ],
+  "frames": {
+    "cypress": {
+      "x": 18,
+      "y": 17,
+      "w": 344,
+      "h": 343,
+      "sheet": "base"
+    },
+    "sapling": {
+      "x": 466,
+      "y": 143,
+      "w": 166,
+      "h": 212,
+      "sheet": "base"
+    },
+    "reeds": {
+      "x": 772,
+      "y": 89,
+      "w": 256,
+      "h": 269,
+      "sheet": "base"
+    },
+    "home": {
+      "x": 1109,
+      "y": 96,
+      "w": 313,
+      "h": 266,
+      "sheet": "base"
+    },
+    "raisedHome": {
+      "x": 31,
+      "y": 396,
+      "w": 303,
+      "h": 309,
+      "sheet": "base"
+    },
+    "levee": {
+      "x": 368,
+      "y": 511,
+      "w": 352,
+      "h": 197,
+      "sheet": "base"
+    },
+    "damagedLevee": {
+      "x": 732,
+      "y": 511,
+      "w": 350,
+      "h": 198,
+      "sheet": "base"
+    },
+    "hyacinth": {
+      "x": 1103,
+      "y": 500,
+      "w": 322,
+      "h": 205,
+      "sheet": "base"
+    },
+    "nutria": {
+      "x": 30,
+      "y": 888,
+      "w": 315,
+      "h": 149,
+      "sheet": "base"
+    },
+    "egret": {
+      "x": 466,
+      "y": 774,
+      "w": 210,
+      "h": 273,
+      "sheet": "base"
+    },
+    "mud": {
+      "x": 739,
+      "y": 828,
+      "w": 324,
+      "h": 214,
+      "sheet": "base"
+    },
+    "shore": {
+      "x": 1136,
+      "y": 917,
+      "w": 257,
+      "h": 119,
+      "sheet": "base"
+    }
+  }
+}

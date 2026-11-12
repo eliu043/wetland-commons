@@ -1,0 +1,37 @@
+{
+  "retrieved": "2026-11-09",
+  "census_vintage": 2025,
+  "parishes": [
+    "22051",
+    "22057",
+    "22075",
+    "22089"
+  ],
+  "sources": {
+    "water": "https://www2.census.gov/geo/tiger/TIGER2025/AREAWATER/",
+    "infrastructure": "https://geospatial.sec.usace.army.mil/dls/rest/services/NLD/Public/FeatureServer",
+    "nps_historical_map": "https://www.nps.gov/jela/learn/news/images/Backfill-Canal-Image.jpg"
+  },
+  "limitations": [
+    "Site waterways and anchor coordinates are sourced. Work segments and spoil-bank alignments are hypothetical, not verified actual structures.",
+    "Source water geometry vintage is not a field-condition survey date.",
+    "NPS reference image is historical (2022); not evidence of current unfilled canals.",
+    "All non-water focus cells have assumed wetland habitat; no mapped vegetation or developed-land inventory.",
+    "No calibrated salinity, flood, sediment, population, or hydraulic model."
+  ],
+  "sha256": {
+    "data-source/water-22075.zip": "fa44a7d12ec6e7835268b5210deab342c61814021fdabeae9cef73d3986891e4",
+    "data-source/nps-project-map.jpg": "1b0a0fe188c76344f44c4616b20c340929f28cebcc1d243047bc950fc16a0fa7",
+    "data-source/water-22089.zip": "451f24ddb5d473e63d62a42eabfc6ddcc851c44c719d4ea21d49a247914a7d31",
+    "data-source/nld-10.json": "e9ef6b8fe00f16905c39bc79df15ca63db58e29161ebb1fdf3c5a60af242c631",
+    "data-source/nld-11.json": "6062aafa260307a254ee54e6b1323ec66293103a1270cc170ada3f6bfb49b442",
+    "data-source/nld-12.json": "1fe54556bea5503052af8ccd7ee125ee0c31136772b1b9805d9ec7070837e92d",
+    "data-source/water-22051.zip": "71e2e15a8e2a0f1aa77f94dbb9cd5839b9aaaefa1a6729cd16fbf030b762452d",
+    "data-source/nld-4.json": "fe2a81fe8074569b566c4c89cfa9f037f31e0dd4b5cd906706c9fb098d7de027",
+    "data-source/water-22057.zip": "d7b826dc7f4acfe96fb9133aab669cad9a9494e79310de18b1568c3f8e77fe3f",
+    "dist/data/barataria-grid.json": "a0cca9eaa2434e30e7bb1f0fbf6ff5f0835582deae54635f8b5f8efd9b45648c",
+    "dist/data/barataria-infrastructure.geojson": "0c1d323cdf7d320b52cd46423a0d8818e3c00b7c49797920ed0adc327a0887e3",
+    "dist/data/nps-project-map.jpg": "1b0a0fe188c76344f44c4616b20c340929f28cebcc1d243047bc950fc16a0fa7",
+    "dist/data/barataria-water.geojson": "2e9808f33bad409afb186149eb0756364097c514e2ba246a53e61fc17aeac4c3"
+  }
+}
